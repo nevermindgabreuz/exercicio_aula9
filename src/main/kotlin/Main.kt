@@ -25,4 +25,5 @@ fun main(args: Array<String>) {
         endereco = "Rua A n° 22 - Porto Alegre/RS"
     )
     println(gabriel.matricula)
+
 }
