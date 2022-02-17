@@ -3,11 +3,14 @@ import java.time.LocalDate
 open class Funcionario (
         var salario:Float,
         var cargaHorariaDiaria:Byte,
+
         //infos do classe mae
         matricula:Short,
         endereco:String,
         telefone:String,
         email:String,
+
+        //Atributos classe pessoa fisica
         cpf:String,
         rg:String,
         nomeCompleto:String,
